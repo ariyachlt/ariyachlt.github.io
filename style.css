@@ -1,0 +1,65 @@
+#home_button {
+    color: lightgrey;
+    font-size: 1.2em;
+    position: absolute;
+    top: 50px;
+    left: 13px;
+    text-decoration: none;
+}
+
+#projects_button {
+    color: lightgrey;
+    font-size: 1.2em;
+    position: absolute;
+    top: 80px;
+    left: 13px;
+    text-decoration: none;
+}
+
+#menu_icon {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    width: 40px;
+}
+
+h1 {
+    color: #BE9342;
+    position: absolute;
+    top: 180px;
+    left: 835px;
+    width: 400px;
+}
+
+#description {
+    color: #7B7B7B;
+    font-size: 1.4em;
+    position: absolute;
+    top: 280px;
+    left: 698px;
+    width: 630px;
+    height: 340px;
+    padding:5px;
+    overflow: auto;
+    text-align: justify;
+}
+
+#mdlr_image {
+    position: absolute;
+    top: 20px;
+    left: 630px;
+    width: 725px;
+}
+
+#mdlr_video {
+    background-color: black;
+    border-color: lightgrey;
+    color: lightgrey;
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    width: 342px;
+    height: 608px;
+    text-align: center;
+}
+
