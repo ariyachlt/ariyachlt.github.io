@@ -61,13 +61,11 @@ h1 {
 
 #mdlr_video {
     background-color: black;
-    border-color: lightgrey;
-    color: lightgrey;
     position: absolute;
     top: 80px;
     left: 200px;
-    width: 342px;
-    height: 608px;
-    text-align: center;
+    /* The original video is 402x710px. It has been multiplied by 0.84 (84% of original size)*/
+    width: 337.58px;
+    height: 604.8px;
+    border-radius: 15px;
 }
-
