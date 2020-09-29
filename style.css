@@ -1,3 +1,11 @@
+#top_bar {
+    background-color: #7B7B7B;
+    position: absolute;
+    border-style: none!important;
+    width: 1200px;
+    height: 50px;
+}
+
 #home_button {
     color: lightgrey;
     font-size: 1.2em;
